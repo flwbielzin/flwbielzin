@@ -1,20 +1,3 @@
-## Fala comigo Sou Gabriel Oliveira, Estudante de Eng. Software
-
-### Gabriel Oliveira
-
-Sou estudante de Engenharia de Software, apaixonado por explorar e desenvolver soluções inovadoras através da tecnologia. Desde que iniciei minha jornada na programação, tenho buscado me aprofundar em diversas áreas, com foco no desenvolvimento web e automação. 
-
-Minhas principais habilidades incluem:
-
-- **Python**: Automação de tarefas, scripts para web scraping e desenvolvimento de aplicações web.
-- **HTML, CSS e JavaScript**: Criação de interfaces modernas e interativas para a web, com foco em usabilidade e performance.
-- **Java**: Desenvolvimento de aplicações robustas e orientadas a objetos.
-  
-Atualmente, estou sempre aprendendo novas ferramentas e frameworks, participando de projetos que me desafiem a crescer como desenvolvedor.
-
-Busco colaborar em projetos open source, contribuindo para a comunidade enquanto aprendo. Estou aberto a novas oportunidades e sempre disposto a compartilhar conhecimento e aprender com outros desenvolvedores.
-
-
 [![Blog](https://img.shields.io/website?label=Portfolio-flwbielzin&style=for-the-badge&url=https://portfolioflwbielzin.netlify.app))](https://portfolioflwbielzin.netlify.app/)
 <div style="display: inline_block"><br>
   <img align="center" alt="GB-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,3 +18,23 @@ Busco colaborar em projetos open source, contribuindo para a comunidade enquanto
   <a href="https://www.linkedin.com/in/flwbielzin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+
+## Fala comigo Sou Gabriel Oliveira, Estudante de Eng. Software
+
+### Gabriel Oliveira
+
+Sou estudante de Engenharia de Software, apaixonado por explorar e desenvolver soluções inovadoras através da tecnologia. Desde que iniciei minha jornada na programação, tenho buscado me aprofundar em diversas áreas, com foco no desenvolvimento web e automação. 
+
+Minhas principais habilidades incluem:
+
+- **Python**: Automação de tarefas, scripts para web scraping e desenvolvimento de aplicações web.
+- **HTML, CSS e JavaScript**: Criação de interfaces modernas e interativas para a web, com foco em usabilidade e performance.
+- **Java**: Desenvolvimento de aplicações robustas e orientadas a objetos.
+  
+Atualmente, estou sempre aprendendo novas ferramentas e frameworks, participando de projetos que me desafiem a crescer como desenvolvedor.
+
+Busco colaborar em projetos open source, contribuindo para a comunidade enquanto aprendo. Estou aberto a novas oportunidades e sempre disposto a compartilhar conhecimento e aprender com outros desenvolvedores.
+
+
