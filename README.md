@@ -21,9 +21,7 @@
 
 
 
-## Fala comigo Sou Gabriel Oliveira, Estudante de Eng. Software
-
-### Gabriel Oliveira
+## Fala comigo!! Sou Gabriel Oliveira, Estudante de Eng. Software.
 
 Sou estudante de Engenharia de Software, apaixonado por explorar e desenvolver soluções inovadoras através da tecnologia. Desde que iniciei minha jornada na programação, tenho buscado me aprofundar em diversas áreas, com foco no desenvolvimento web e automação. 
 
