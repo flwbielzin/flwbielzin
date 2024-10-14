@@ -19,6 +19,8 @@
   
 </div>
 
+![flwbielzin GitHub stats](https://github-readme-stats.vercel.app/api?username=flwbielzin&show_icons=true&theme=radical)
+
 
 
 ## Fala comigo!! Sou Gabriel Oliveira, Estudante de Eng. Software.
