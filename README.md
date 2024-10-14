@@ -15,7 +15,7 @@ Atualmente, estou sempre aprendendo novas ferramentas e frameworks, participando
 Busco colaborar em projetos open source, contribuindo para a comunidade enquanto aprendo. Estou aberto a novas oportunidades e sempre disposto a compartilhar conhecimento e aprender com outros desenvolvedores.
 
 
-
+[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://portfolioflwbielzin.netlify.app))](https://portfolioflwbielzin.netlify.app/)
 <div style="display: inline_block"><br>
   <img align="center" alt="GB-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
