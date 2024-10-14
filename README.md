@@ -1,16 +1,28 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Fala comigo Sou Gabriel Oliveira, Estudante de Eng. Software
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+### Gabriel Oliveira
+
+Sou estudante de Engenharia de Software, apaixonado por explorar e desenvolver soluções inovadoras através da tecnologia. Desde que iniciei minha jornada na programação, tenho buscado me aprofundar em diversas áreas, com foco no desenvolvimento web e automação. 
+
+Minhas principais habilidades incluem:
+
+- **Python**: Automação de tarefas, scripts para web scraping e desenvolvimento de aplicações web.
+- **HTML, CSS e JavaScript**: Criação de interfaces modernas e interativas para a web, com foco em usabilidade e performance.
+- **Java**: Desenvolvimento de aplicações robustas e orientadas a objetos.
+  
+Atualmente, estou sempre aprendendo novas ferramentas e frameworks, participando de projetos que me desafiem a crescer como desenvolvedor.
+
+Busco colaborar em projetos open source, contribuindo para a comunidade enquanto aprendo. Estou aberto a novas oportunidades e sempre disposto a compartilhar conhecimento e aprender com outros desenvolvedores.
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="GB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="GB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="GB-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
 </div>
   
   ##
